@@ -1,5 +1,3 @@
-# bay-area-fight-covid19
-
 # PPE Donation Support
 
 | Hospital | Need | Location | Contact |
@@ -13,7 +11,7 @@
 | Lac usc medical center | mask, N95, gown, face shield | NA | Jian Wang（626) 271-6980 |
 | Garfield Medical Center | surgical, N95, eye goggles | NA | John 626-203-6647 |
 | Kaiser Permanente Santa Clara Medical Center Oncology | N95, goggle, face shield | NA | Danning Wang 408/841-6988 |
-| Kaiser SBC Medical Center | surgical mask, N-95 | Huiquan  Zhao，MD, PhD 1-626-716-2317
+| Kaiser SBC Medical Center | surgical mask, N-95 | NA | Huiquan  Zhao，MD, PhD 1-626-716-2317
 | Sunnyvale Post Acute center | surgical mask, iso gown | 1291 S Bernardo Ave, Sunnyvale, CA, 94555 | Yufan Chen RD, 408-245-8070 |
 
 
